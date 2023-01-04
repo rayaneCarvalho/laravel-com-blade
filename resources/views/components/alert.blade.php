@@ -1,0 +1,1 @@
+<p>Aqui é o meu componente de alerta!!!! {{$some}}</p>
